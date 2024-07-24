@@ -2,7 +2,7 @@
 
 body
 {
-    background-image: linear-gradient(90deg, red, blue );
+    background-image: linear-gradient(90deg, blue,purple  );
     color: black;
     font-size: 12pt;
     font-family:Arial;
@@ -22,7 +22,7 @@ h1
 
 C1
 {   
-    background-image: linear-gradient(270deg, yellow, red );
+    background-image: linear-gradient(270deg, yellow,white );
     background-color: aqua;
     color: black;
     font-size: 30pt;
